@@ -13,6 +13,7 @@
     <li><code>  git checkout -b branch_name </code> - создание новой ветки и переключение на нее</li>
     <li><code> git fetch </code> - выгрузка всех изменений из удаленного репозитория (VCS -> Git -> Fetch в IDEA)</li>
     <li><code> git branch -d branch_name </code> - удалить ветку</li>
+    <li><code> git push origin -d branch_name </code> - удалить удаленную ветку</li>
     <li><code> git merge branch_name</code> - влить ветку branch_name в текущую</li>
     <!--<li><code>  </code> - </li>-->
 </ul>
